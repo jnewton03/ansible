@@ -64,5 +64,5 @@ Playbooks awys run from a build server
   copy - only for single files or small dirs
   lineinfile - try to switch to template instead of looping on one file
   (ansible callback plugins! - try YAML) callback_whitelist = profile_roles, profile_tasks, timer
-  
-  
+
+  END
